@@ -4,12 +4,13 @@
   "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
-    "type": "page"
+    "type": "page",
+    "display": "hidden"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Dashboard ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://www.formail.dev/dashboard",
     "newWindow": true
   }
 }

@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "formail-docs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Formail Docs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/seangray-dev/formail-app.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Sean Gray",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/seangray-dev/formail-app/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/seangray-dev/formail-app#readme",
   "dependencies": {
     "next": "^13.0.6",
-    "nextra": "latest",
-    "nextra-theme-docs": "latest",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "2.13.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
