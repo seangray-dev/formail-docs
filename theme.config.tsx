@@ -2,14 +2,14 @@ import { DocsThemeConfig } from 'nextra-theme-docs';
 import React from 'react';
 
 const config: DocsThemeConfig = {
-  banner: {
-    key: '1.0-release',
-    text: (
-      <a href='https://formail.dev' target='_blank'>
-        🎉 Formail 1.0 is released. Read more →
-      </a>
-    ),
-  },
+  // banner: {
+  //   key: '1.0-release',
+  //   text: (
+  //     <a href='https://formail.dev' target='_blank'>
+  //       🎉 Formail 1.0 is released. Read more →
+  //     </a>
+  //   ),
+  // },
   logo: <span>Formail</span>,
   project: {
     link: 'https://github.com/seangray-dev/formail-app',
