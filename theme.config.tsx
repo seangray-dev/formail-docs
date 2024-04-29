@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
   //     </a>
   //   ),
   // },
-  logo: <span>Formail</span>,
+  logo: <img src='/logo.png' alt='Formail Logo' style={{ height: '20px' }} />,
   project: {
     link: 'https://github.com/seangray-dev/formail-app',
   },
