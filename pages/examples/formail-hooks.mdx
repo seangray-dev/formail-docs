@@ -36,10 +36,10 @@ async function handleSubmit(e) {
     if (!response.ok) {
       throw new Error('Form submission failed');
     }
-    
+
+    // Reset the form or clear the state here if necessary
     form.reset();
     console.log('Form submitted successfully');
-    // Reset the form or clear the state here if necessary
   } catch (err) {
     console.err('An error occurred:', err.message);
   }
