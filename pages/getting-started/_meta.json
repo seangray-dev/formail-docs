@@ -2,6 +2,6 @@
   "installation": {
     "title": "Installation & Usage"
   },
-  "file-uploads": { "title": "File Uploads (Coming Soon)" },
-  "spam-protection": {}
+  "spam-protection": {},
+  "file-uploads": { "title": "File Uploads (Coming Soon)" }
 }
