@@ -7,5 +7,8 @@
   },
   "html-form-action": {
     "title": "HTML Form Action"
+  },
+  "typescript-javascript": {
+    "title": "TypeScript / JavaScript"
   }
 }
